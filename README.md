@@ -1,6 +1,7 @@
 # neo_todo
 
 A gamified todo application, created as a part of a ersearch into gamification and its impact on productivity and motivation of people in carrying out tasks and activities in the produtivity sector.
+Complete tasks to earn points, which can be redeemed for slips.
 
 ## Getting Started
 
